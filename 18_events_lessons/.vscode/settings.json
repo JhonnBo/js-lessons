@@ -1,0 +1,9 @@
+{
+    "AllAutocomplete.showCurrentDocument": false,
+
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  }
+}
